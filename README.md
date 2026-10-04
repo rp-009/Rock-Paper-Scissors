@@ -4,8 +4,7 @@ A simple, interactive web-based Rock-Paper-Scissors game built using HTML, CSS, 
 
 ## Live Demo
 
-🌍 **[Play the Game Here](https://www.google.com/search?q=%23)** *(Update this link once deployed to GitHub Pages)*
-
+🌍 **[Play the Game Here]([https://www.google.com/search?q=%23](https://github.com/rp-009/Rock-Paper-Scissors))** 
 ## Features
 
 * **Play Against the Computer:** The game generates a random computer move using JavaScript's `Math.random()`.
